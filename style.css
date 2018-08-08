@@ -1,0 +1,60 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto ;
+    background-color: ghostwhite;
+    padding: 5px;   
+}
+footer{
+right: 0;
+bottom: 0;
+left: 0;
+padding: 10px;
+width: 98.1%;
+margin: 5px;
+text-align: center;
+border: 1px solid black;
+}
+.head{
+    text-align: center;
+}
+.navigation  {
+    list-style-type: none;
+	background-color: ghostwhite;
+    border: 1px solid black;
+    overflow: auto;
+    width: 96.5%;
+}
+.navigation li {
+float: left;
+}
+.navigation li a {
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+font-family: fantasy;
+font-size: 25px;
+text-decoration: none;
+}
+.left {
+width: 60%;
+height: 100%; 
+padding: 15px;
+border: 1px solid black;
+float: left;}
+.right {
+width: auto;
+height: 100%; 
+padding: 15px;
+border: 1px solid black;
+}
+.contentheader{
+	color: black;
+}
+button{
+    padding: 15px;
+}
+button a{
+    color: black;
+    text-decoration: none;
+}
